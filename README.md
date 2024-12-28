@@ -1,0 +1,1 @@
+This repository demonstrates a bug in Expo's `Constants.deviceId` where the ID changes after reinstalling the application. The `bug.js` file shows the problem, while `bugSolution.js` offers a solution using AsyncStorage or a secure backend for persistent user identification.
